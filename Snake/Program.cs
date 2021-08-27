@@ -23,9 +23,6 @@ namespace Snake
                 snake.Move();
                 Thread.Sleep(300);
             }
-
-
-
             Console.ReadKey();
         }
     }
